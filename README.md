@@ -1,5 +1,3 @@
-# Tumor-Diagnosis
+## Tumor 
 
-
-![İlk Resim Açıklaması](C:\Users\yavuz\Desktop\tümör.png)
-![İkinci Resim Açıklaması]("C:\Users\yavuz\Desktop\tümör2.png")
+![](https://ibb.co/CmKwrfX)
